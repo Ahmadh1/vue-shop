@@ -10,7 +10,7 @@
         <h4 class="text-center">${{ total }}</h4>
     </div>
 
-    <button @click="$emit('pay')" class="btn btn-success form-control" :disabled="items.length === 0">Pay</button>
+    <button @click="$emit('pay')" class="btn btn-success form-control" :disabled="items.length === 0">Pay Now!</button>
     </div>
 </template>
 

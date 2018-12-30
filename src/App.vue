@@ -60,7 +60,7 @@ export default {
     pay() {
       this.cart = []
 
-      alert('thanks for choosing us')
+      alert('thank u...!')
     }
   }
   
